@@ -193,11 +193,11 @@ broker / Zookeeper does not affect the state of the Kafka cluster. Kafka will re
 for Kafka. The leader election between the Kafka broker is also done by using Zookeeper in the event of leader failure.
 
 ## Apache Kafka - Installation Steps
-   Installation on Linux [Click to Instal](https://kafka.apache.org/quickstart)
+   Installation on Linux [Click Hare](https://kafka.apache.org/quickstart)
    
-   Installation on Windows [Click to Install](https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-windows)
+   Installation on Windows [Click Here](https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-windows)
    
-   Installation on macOS [Click to Install](https://www.javatpoint.com/installing-apache-kafka-on-macos)
+   Installation on macOS [Click Here](https://www.javatpoint.com/installing-apache-kafka-on-macos)
    
    
 ## Usefull Resorces
